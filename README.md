@@ -11,3 +11,4 @@ The app was crafted using MIT App Inventor, a user-friendly platform for buildin
 
 📖 Inside the PDF:
 Explore the attached PDF to gain a deeper understanding of the Quiz App's architecture, user interaction flow, and the innovative ways I used MIT App Inventor to bring the app to life. This 
+[Download PDF](Quiz_App.pdf)
