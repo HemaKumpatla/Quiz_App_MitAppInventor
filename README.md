@@ -14,3 +14,5 @@ Instantly see correct answers after submitting responses.
 
 Download the pdf from below link
 [Download PDF](Quiz_App.pdf)
+To view Pdf click below link
+[View PDF](https://1drv.ms/b/s!Am0RTrfQLC1Sih4jfPXxIm-mKeGx?e=YZIhNq)
